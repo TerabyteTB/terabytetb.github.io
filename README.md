@@ -1,6 +1,6 @@
 ## Welcome to TerabyteTB
 
 #### Links to ongoing projects:
-*[Text Editor](https://terabytetb.github.io/TextEditor)*
+<a href="https//terabytetb.github.io/TextEditor" class="small"><em>TextEditor</em></a>
 <br>
-*[highlightjs](https://terabytetb.github.io/highlightjs)*
+<a href="https//terabytetb.github.io/hilitejs" class="small"><em>hilitejs</em></a>

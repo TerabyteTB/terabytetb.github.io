@@ -2,6 +2,8 @@
 ---
 
 @import "{{ site.theme }}";
-.small{
-    font-size = small;
+#links-to-ongoing-projects{
+    a{
+        font-size = small;
+    }
 }

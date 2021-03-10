@@ -1,5 +1,3 @@
-## Welcome to TerabyteTB
-
 #### Links to ongoing projects:
 <a href="https://terabytetb.github.io/WhirlpoolEditor"><em>Whirlpool Editor</em></a>
 

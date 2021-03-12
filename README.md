@@ -1,4 +1,4 @@
-Hi, check out my project below!
+Hi, check out my project(s) below!
 
 #### Links to ongoing projects:
 <a href="https://terabytetb.github.io/WhirlpoolEditor"><em>Whirlpool Editor</em></a>

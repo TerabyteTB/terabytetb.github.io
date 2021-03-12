@@ -1,4 +1,4 @@
-# Hey, welcome to my page! Chack out my project(s) below!
+### Hey, welcome to my page! Check out my project(s) below!
 
 #### Links to ongoing projects:
 <a href="https://terabytetb.github.io/WhirlpoolEditor"><em>Whirlpool Editor</em></a>

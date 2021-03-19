@@ -4,3 +4,6 @@ Hi, check out my project(s) below!
 <a href="https://terabytetb.github.io/WhirlpoolEditor"><em>Whirlpool Editor</em></a>
 
 <a href="https://terabytetb.github.io/hilitejs"><em>hilitejs</em></a>
+
+#### Documentation
+[Docs](https://terabytetb.github.io/docs)
